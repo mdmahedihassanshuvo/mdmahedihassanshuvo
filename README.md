@@ -1,25 +1,34 @@
-# Hi there 👋, I'm Mahedi Hassan Shuvo
-### Front-End Web Developer
+<h1 align="center">Hi 👋, I'm MD. Mahedi Hassan Shuvo</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-hi , i'm md mahedi hassan shuvo. i'm a web developer. i make any professional web site 100% error-free and client satisfaction with using html, css, javascript and react. i'm still learning. I love learning programming language. To work a it/software company is my dream.
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw35arrV2F3nzuv11HZXi_F6&ust=1670169832012000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiw187p3fsCFQAAAAAdAAAAABAE">
 
-Skills: REACT / JS / HTML / CSS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahedihassanshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahedihassanshuvo" /> </p>
 
-- 🔭 I’m currently working on Javascript 
-- 🌱 I’m currently learning React 
-- 💬 Ask me about Web Development 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo" alt="mdmahedihassanshuvo" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/mhshuvo6795" target="blank"><img src="https://img.shields.io/twitter/follow/mhshuvo6795?logo=twitter&style=for-the-badge" alt="mhshuvo6795" /></a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdmahedihassanshuvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shuvo6795)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdmahedihassanshuvo95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@mhshvuo6795)  
+- 🔭 I’m currently working on **Javascript**
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 🌱 I’m currently learning **React**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo)](https://github.com/ryo-ma/github-profile-trophy)
+- 💬 Ask me about **Web Development**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahedihassanshuvo)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **mhshuvo6795@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmahedihassanshuvo&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mhshuvo6795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhshuvo6795" height="30" width="40" /></a>
+<a href="https://fb.com/shvuo6795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shvuo6795" height="30" width="40" /></a>
+<a href="https://instagram.com/mdmahedihassanshuvo95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmahedihassanshuvo95" height="30" width="40" /></a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/mdmahedihassanshuvo)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/mdmahedihassanshuvo)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmahedihassanshuvo&show_icons=true&locale=en&layout=compact" alt="mdmahedihassanshuvo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmahedihassanshuvo&show_icons=true&locale=en" alt="mdmahedihassanshuvo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmahedihassanshuvo&" alt="mdmahedihassanshuvo" /></p>
