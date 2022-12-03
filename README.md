@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Mahedi Hassan Shuvo
 #### Front-End Web Developer
-![Front-End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 hi , i'm md mahedi hassan shuvo. i'm a web developer. i make any professional web site 100% error-free and client satisfaction with using html, css, javascript and react. i'm still learning. I love learning programming language. To work a it/software company is my dream.
 
