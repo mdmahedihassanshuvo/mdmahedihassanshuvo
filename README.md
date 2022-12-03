@@ -22,4 +22,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/mdmahedihassanshuvo)  
 
-![Profile views](https://gpvc.arturio.dev/mdmahedihassanshuvo)  
+<!-- ![Profile views](https://gpvc.arturio.dev/mdmahedihassanshuvo)   -->
