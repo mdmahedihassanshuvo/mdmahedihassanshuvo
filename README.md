@@ -4,7 +4,7 @@
 <h2 align="left">🙎‍♂️About Me:</h2>
 Hi, I'm MD. Mahedi Hassan Shuvo. I'm a Front-End Web Developer. I make any professional web sites 100% error-free and client satisfaction with using HTML, CSS, Javascript and React. I'm still learning. I love learning programming language. To work a It/Software company is my dream.
 
-<!-- ![Profile views](https://gpvc.arturio.dev/mdmahedihassanshuvo)  -->
+[Profile views](https://gpvc.arturio.dev/mdmahedihassanshuvo)
 <!-- Skills: REACT / JS / HTML / CSS -->
 
 ## 👨‍💻Works:
