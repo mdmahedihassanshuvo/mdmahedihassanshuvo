@@ -9,7 +9,7 @@ Hi, I'm MD. Mahedi Hassan Shuvo. I'm a Front-End Web Developer. I make any profe
 
 ## 👨‍💻Works:
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React**
 
