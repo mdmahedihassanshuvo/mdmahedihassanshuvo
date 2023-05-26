@@ -11,9 +11,9 @@ innovative ideas to life. My focus is on clean code, attention to detail, and pa
 
 ## 👨‍💻Works:
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React Js**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I love to learning nelearnlearnlearnw technology
 
 - 💬 Ask me about **Web Development**
 
