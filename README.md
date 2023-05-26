@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD. Mahedi Hassan Shuvo</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
+<h2 align="left">🙎‍♂️About Me:</h2>
+As a web developer, my goal is to create engaging and intuitive web applications that enhance user
+experience and drive business success. I’m eager to expand my skills and explore new technologies to bring
+innovative ideas to life. My focus is on clean code, attention to detail, and passion for problem-solving.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahedihassanshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahedihassanshuvo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo" alt="mdmahedihassanshuvo" /></a> </p>
