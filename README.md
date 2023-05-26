@@ -6,12 +6,6 @@ As a web developer, my goal is to create engaging and intuitive web applications
 experience and drive business success. I’m eager to expand my skills and explore new technologies to bring
 innovative ideas to life. My focus is on clean code, attention to detail, and passion for problem-solving.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahedihassanshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahedihassanshuvo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo" alt="mdmahedihassanshuvo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Doctor Portal](https://github.com/mdmahedihassanshuvo/Doctor-portal)
 
 - 🌱 I’m currently learning **Node.js**
@@ -23,6 +17,12 @@ innovative ideas to life. My focus is on clean code, attention to detail, and pa
 - 📫 How to reach me **mhshuvo6795@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19uaHnVDCil9ZqzOrQY7SZTOyx5ggJ7p1/view?usp=sharing](https://drive.google.com/file/d/19uaHnVDCil9ZqzOrQY7SZTOyx5ggJ7p1/view?usp=sharing)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahedihassanshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahedihassanshuvo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo" alt="mdmahedihassanshuvo" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
