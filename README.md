@@ -3,7 +3,7 @@
 
 <h2 align="left">🙎‍♂️About Me:</h2>
 As a web developer, my goal is to create engaging and intuitive web applications that enhance user
-experience and drive business success. I’m eager to expand my skills and explore new technologies to bring
+experience. I’m eager to expand my skills and explore new technologies to bring
 innovative ideas to life. My focus is on clean code, attention to detail, and passion for problem-solving.
 
 - 🔭 I’m currently working on [Doctor Portal](https://github.com/mdmahedihassanshuvo/Doctor-portal)
