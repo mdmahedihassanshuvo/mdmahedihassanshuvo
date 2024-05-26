@@ -12,9 +12,9 @@ innovative ideas to life. My focus is on clean code, attention to detail, and pa
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdmahedihassanshuvo](https://github.com/mdmahedihassanshuvo)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Javascript, React**, **TypeScript
 
-- 📫 How to reach me **mhshuvo6795@gmail.com**
+- 📫 How to reach me **mhshuvo2030@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19uaHnVDCil9ZqzOrQY7SZTOyx5ggJ7p1/view?usp=sharing](https://drive.google.com/file/d/19uaHnVDCil9ZqzOrQY7SZTOyx5ggJ7p1/view?usp=sharing)
 
