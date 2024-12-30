@@ -9,7 +9,7 @@ I specialize in a range of tools and technologies, including:
 |------------------|-----------------------------------------------------------------------------------------------|
 | **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react" height="40" />   |
 | **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,next.js,express" height="40" />            |
-| **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,postgres,mongodb" height="40" />      |
+| **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40" />      |
 | **DevOps:**      | <img src="https://skillicons.dev/icons?i=nginx,aws,bash,linux,ubuntu" height="40" />          |
 | **Other Tools:** | <img src="https://skillicons.dev/icons?i=git,github,md,postman,vscode" height="40" />         |
 
