@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Shahed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Md Mahedi Hassan Shuvo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ## About Me
-I'm a passionate and experienced Software Engineer with a strong background in web and mobile app development. I enjoy working on challenging projects and solving complex problems.
+I'm a passionate and experienced Software Engineer with a strong background in web development. I enjoy working on challenging projects and solving complex problems.
 
 ## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
@@ -9,7 +9,6 @@ I specialize in a range of tools and technologies, including:
 |------------------|-----------------------------------------------------------------------------------------------|
 | **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular" height="40" /> |
 | **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" />                    |
-| **Mobile:**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio" height="40" />      |
 | **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />                       |
 | **DevOps:**      | <img src="https://skillicons.dev/icons?i=nginx,aws,bash,linux,ubuntu" height="40" />          |
 | **Other Tools:** | <img src="https://skillicons.dev/icons?i=git,github,md,postman,vscode" height="40" />         |
