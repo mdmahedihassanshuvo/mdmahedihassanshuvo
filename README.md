@@ -5,13 +5,13 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 
 ## 🛠 My Tech Stack
 I specialize in a range of tools and technologies, including:
-| Tech Area        | Tools & Technologies                                                                          |
-|------------------|-----------------------------------------------------------------------------------------------|
-| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react" height="40" />   |
-| **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,express,next.js" height="40" />            |
-| **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40" />      |
-| **DevOps:**      | <img src="https://skillicons.dev/icons?i=github,bash,linux,ubuntu" height="40" />          |
-| **Other Tools:** | <img src="https://skillicons.dev/icons?i=git,github,md,postman,vscode" height="40" />         |
+| Tech Area        | Tools & Technologies                                                                                                    |
+|------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react" height="40" />                          |
+| **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,express,next.js" height="40" />                                      |
+| **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40" />                                         |
+| **DevOps:**      | <img src="https://skillicons.dev/icons?i=bash,linux,ubuntu" height="40" />                                              |
+| **Other Tools:** | <img src="https://skillicons.dev/icons?i=git,github,md,postman,vscode,illustrator,photoshop,premierepro" height="40" /> |
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
