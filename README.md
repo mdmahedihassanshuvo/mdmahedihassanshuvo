@@ -1,41 +1,58 @@
-<h1 align="center">Hi 👋, I'm MD. Mahedi Hassan Shuvo</h1>
-<h3 align="center">Front-End Web Developer</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Shahed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<h2 align="left">🙎‍♂️About Me:</h2>
-As a web developer, my goal is to create engaging and intuitive web applications that enhance user
-experience. I’m eager to expand my skills and explore new technologies to bring
-innovative ideas to life. My focus is on clean code, attention to detail, and passion for problem-solving.
+## About Me
+I'm a passionate and experienced Software Engineer with a strong background in web and mobile app development. I enjoy working on challenging projects and solving complex problems.
 
-- 🔭 I’m currently working on Backend Development
+## 🛠 My Tech Stack
+I specialize in a range of tools and technologies, including:
+| Tech Area        | Tools & Technologies                                                                          |
+|------------------|-----------------------------------------------------------------------------------------------|
+| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular" height="40" /> |
+| **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,fastapi" height="40" />                    |
+| **Mobile:**      | <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio" height="40" />      |
+| **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />                       |
+| **DevOps:**      | <img src="https://skillicons.dev/icons?i=nginx,aws,bash,linux,ubuntu" height="40" />          |
+| **Other Tools:** | <img src="https://skillicons.dev/icons?i=git,github,md,postman,vscode" height="40" />         |
 
-- 🌱 I’m currently learning **Node.js**
+I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
-- 👨‍💻 All of my projects are available at [https://github.com/mdmahedihassanshuvo](https://github.com/mdmahedihassanshuvo)
+## 🌟 Professional Principles
+### DRY (Don't Repeat Yourself)
+I ensure that my code is modular and reusable, reducing redundancy and improving maintainability.
+### SOLID Principles
+I adhere to the five SOLID principles to write scalable and maintainable code:
+- **Single Responsibility Principle:** Each class or module has a single, well-defined responsibility.
+- **Open/Closed Principle:** Software entities are open for extension but closed for modification.
+- **Liskov Substitution Principle:** Objects of a superclass can be replaced with objects of a subclass without affecting the correctness of the program.
+- **Interface Segregation Principle:** Clients should not be forced to depend on interfaces they do not use.
+- **Dependency Inversion Principle:** High-level modules should not depend on low-level modules; both should depend on abstractions.
+### Clean Code
+I follow Clean Code practices to ensure my code is easy to read, understand, and maintain. This includes writing meaningful variable names, keeping functions small and focused, and continuously refactoring code to improve its structure and clarity.
+### Code Review
+I participate in and advocate for regular code reviews. This practice not only improves code quality but also fosters knowledge sharing and collaboration within the team.
 
-- 💬 Ask me about **Javascript, React**, TypeScript**,
+## 💼 Experience
+### Tiger Park Limited
+**Software Engineer** *(Sep'22 - Present)*
+- Develop and maintain scalable applications.
+- Manage CentOS servers, including configuration, deployment, and troubleshooting.
+- Collaborated with team to architect software, streamlining operations.
 
-- 📫 How to reach me **mhshuvo2030@gmail.com**
+### Call & Solution
+**Android App Developer** *(Aug'17 - Jul'18)*
+- Designed and developed Android applications using Java.
+- Delivered solutions that enhanced user engagement and application performance.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19uaHnVDCil9ZqzOrQY7SZTOyx5ggJ7p1/view?usp=sharing](https://drive.google.com/file/d/19uaHnVDCil9ZqzOrQY7SZTOyx5ggJ7p1/view?usp=sharing)
+## 🎓 Education
+- BSc in Computer Science and Engineering *(Ongoing)*
+- Diploma in Engineering (Computer Technology)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahedihassanshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahedihassanshuvo" /> </p>
+## 🏆 Achievements
+- 🥈 Skill Competition: Secured 2nd prize for an innovative project showcasing practical solutions in software engineering.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo" alt="mdmahedihassanshuvo" /></a> </p>
+## 📫 Contact Me
+- 📧 [shahed_hridoy@outlook.com](mailto:shahed_hridoy@outlook.com)  
+- <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Shahed Mohammad Hridoy](https://www.linkedin.com/in/shahedmohammadhridoy/)  
+- 🌐 [shahed.com.bd](https://shahed.com.bd)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-mahedi-hassan-shuvo-8b86a725a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-mahedi-hassan-shuvo-8b86a725a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shuvo6795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shuvo6795" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmahedihassanshuvo&show_icons=true&locale=en&layout=compact" alt="mdmahedihassanshuvo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmahedihassanshuvo&show_icons=true&locale=en" alt="mdmahedihassanshuvo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmahedihassanshuvo&" alt="mdmahedihassanshuvo" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
