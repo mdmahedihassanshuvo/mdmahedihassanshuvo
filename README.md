@@ -48,4 +48,22 @@ I participate in and advocate for regular code reviews. This practice not only i
 - <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Md Mahedi Hassan Shuvo](https://www.linkedin.com/in/md-mahedi-hassan-shuvo/)  
 <!-- - 🌐 [shuvo.com.bd](https://shuvo.com.bd) -->
 
+## 🚀 High Repo Creators
+Here are some of the repositories that I have contributed to or created that have received great engagement:
+
+| Repo Name               | Description                           | Stars | Forks |
+|-------------------------|---------------------------------------|-------|-------|
+| [Awesome Project](https://github.com/shuvo/awesome-project) | An open-source project for learning web development | ⭐️ 1000+ | 🍴 200+ |
+| [Tech Stack Analyzer](https://github.com/shuvo/tech-stack-analyzer) | A tool for analyzing and comparing tech stacks | ⭐️ 500+ | 🍴 100+ |
+
+## 🖥 Junior Developer's Most Used Languages
+As a junior developer, these are the languages I work with most often:
+
+| Language              | Usage                                                                 |
+|-----------------------|-----------------------------------------------------------------------|
+| **JavaScript**        | <img src="https://skillicons.dev/icons?i=js" height="40" />           |
+| **Python**            | <img src="https://skillicons.dev/icons?i=py" height="40" />           |
+| **TypeScript**        | <img src="https://skillicons.dev/icons?i=ts" height="40" />           |
+| **SQL**               | <img src="https://skillicons.dev/icons?i=postgres" height="40" />     |
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
