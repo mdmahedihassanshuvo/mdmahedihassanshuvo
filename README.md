@@ -59,13 +59,8 @@ Here are some of the repositories that I have contributed to or created that hav
 ## 🖥 Junior Developer's Most Used Languages
 As a junior developer, these are the languages I work with most often:
 
-| Language              | Usage                                                                 |
-|-----------------------|-----------------------------------------------------------------------|
-| **JavaScript**        | <img src="https://skillicons.dev/icons?i=js" height="40" />           |
-| **Python**            | <img src="https://skillicons.dev/icons?i=py" height="40" />           |
-| **TypeScript**        | <img src="https://skillicons.dev/icons?i=ts" height="40" />           |
-| **SQL**               | <img src="https://skillicons.dev/icons?i=postgres" height="40" />     |
-| **C**                 | <img src="https://skillicons.dev/icons?i=c" height="40" />            |
-| **C++**               | <img src="https://skillicons.dev/icons?i=cplusplus" height="40" />    |
+| Language              | Usage                                                                          |
+|-----------------------|--------------------------------------------------------------------------------|
+| **Language**          | <img src="https://skillicons.dev/icons?i=js,py,ts,postgres,c,c+" height="40" />|
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
