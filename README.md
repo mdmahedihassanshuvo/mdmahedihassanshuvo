@@ -48,13 +48,10 @@ I participate in and advocate for regular code reviews. This practice not only i
 - <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Md Mahedi Hassan Shuvo](https://www.linkedin.com/in/md-mahedi-hassan-shuvo/)  
 <!-- - 🌐 [shuvo.com.bd](https://shuvo.com.bd) -->
 
-## 🚀 High Repo Creators
-Here are some of the repositories that I have contributed to or created that have received great engagement:
-
-| Repo Name               | Description                           | Stars | Forks |
-|-------------------------|---------------------------------------|-------|-------|
-| [Awesome Project](https://github.com/shuvo/awesome-project) | An open-source project for learning web development | ⭐️ 1000+ | 🍴 200+ |
-| [Tech Stack Analyzer](https://github.com/shuvo/tech-stack-analyzer) | A tool for analyzing and comparing tech stacks | ⭐️ 500+ | 🍴 100+ |
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=php)
 
 ## 🖥 Junior Developer's Most Used Languages
 As a junior developer, these are the languages I work with most often:
