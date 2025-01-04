@@ -53,11 +53,5 @@ I participate in and advocate for regular code reviews. This practice not only i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=php)
 
-## 🖥 Junior Developer's Most Used Languages
-As a junior developer, these are the languages I work with most often:
-
-| Language              | Usage                                                                          |
-|-----------------------|--------------------------------------------------------------------------------|
-| **Language**          | <img src="https://skillicons.dev/icons?i=js,py,ts,postgres,c,c+" height="40" />|
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
