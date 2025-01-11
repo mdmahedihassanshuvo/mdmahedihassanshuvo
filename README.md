@@ -49,9 +49,9 @@ I participate in and advocate for regular code reviews. This practice not only i
 <!-- - 🌐 [shuvo.com.bd](https://shuvo.com.bd) -->
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=php)
+![](https://github-readme-stats.vercel.app/api?username=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=php)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
