@@ -46,10 +46,11 @@ I participate in and advocate for regular code reviews. This practice not only i
 ## 📫 Contact Me
 - 📧 [mdmahedihassanshuvo@outlook.com](mailto:mdmahedihassanshuvo@outlook.com)  
 - <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Md Mahedi Hassan Shuvo](https://www.linkedin.com/in/md-mahedi-hassan-shuvo/)  
-<!-- - 🌐 [shuvo.com.bd](https://shuvo.com.bd) -->
+<!--- 🌐 [shuvo.com.bd](https://shuvo.com.bd) -->
 
 ## 📊GitHub Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--- [![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo)](https://github.com/ryo-ma/github-profile-trophy) --->
 ![](https://github-readme-stats.vercel.app/api?username=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=php)
