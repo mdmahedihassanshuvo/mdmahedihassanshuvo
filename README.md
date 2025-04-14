@@ -49,7 +49,7 @@ I participate in and advocate for regular code reviews. This practice not only i
 <!--- 🌐 [shuvo.com.bd](https://shuvo.com.bd) -->
 
 ## 📊GitHub Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--- [![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo)](https://github.com/ryo-ma/github-profile-trophy) --->
 ![](https://github-readme-stats.vercel.app/api?username=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
