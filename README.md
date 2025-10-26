@@ -46,7 +46,7 @@ I participate in and advocate for regular code reviews. This practice not only i
 - 🥈 Project Showcase Competition: Secured 2nd prize for an innovative project showcasing programming hero.
 
 ## 📫 Contact Me
-- 📧 [mdmahedihassanshuvo@outlook.com](mailto:md.mahedihassanshuvo@outlook.com)  
+- 📧 [md.mahedihassanshuvo@outlook.com](mailto:md.mahedihassanshuvo@outlook.com)  
 - <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Md Mahedi Hassan Shuvo](https://www.linkedin.com/in/md-mahedi-hassan-shuvo/)  
 <!--- 🌐 [shuvo.com.bd](https://shuvo.com.bd) -->
 
