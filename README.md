@@ -50,13 +50,14 @@ I participate in and advocate for regular code reviews. This practice not only i
 - <img src="https://skillicons.dev/icons?i=linkedin" height="16" />  [Md Mahedi Hassan Shuvo](https://www.linkedin.com/in/md-mahedi-hassan-shuvo/)  
 <!--- 🌐 [shuvo.com.bd](https://shuvo.com.bd) -->
 
-## 📊GitHub Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo)](https://github.com/ryo-ma/github-profile-trophy)
-<!--- [![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo)](https://github.com/ryo-ma/github-profile-trophy) --->
+## 📊 GitHub Stats :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdmahedihassanshuvo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://github-readme-stats.vercel.app/api?username=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=php)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdmahedihassanshuvo&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahedihassanshuvo&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
