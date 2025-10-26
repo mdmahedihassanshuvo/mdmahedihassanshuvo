@@ -11,7 +11,7 @@ I specialize in a range of tools and technologies, including:
 | **Backend:**     | <img src="https://skillicons.dev/icons?i=py,django,djangocms,djangogis,express,next.js" height="40" />                  |
 | **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40" />                                         |
 | **DevOps:**      | <img src="https://skillicons.dev/icons?i=bash,linux,ubuntu" height="40" />                                              |
-| **Language **    | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java,dart" height="40" />                              |
+| **Language:**    | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java,dart" height="40" />                              |
 | **Other Tools:** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,illustrator,photoshop,premierepro" height="40" />    |
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
