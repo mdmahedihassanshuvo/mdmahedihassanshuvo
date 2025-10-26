@@ -7,13 +7,13 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 I specialize in a range of tools and technologies, including:
 | Tech Area        | Tools & Technologies                                                                                                    |
 |------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,ts,react,nextjs" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Leaflet_logo.svg" height="40" title="Leaflet.js" />|
-| **Backend:**     | <img src="https://skillicons.dev/icons?i=python,django,fastapi,express,nodejs" height="40" /> <img src="https://img.icons8.com/color/48/000000/django.png" height="40" title="Django GIS" />  |
+| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,ts,react,nextjs" height="40" />|
+| **Backend:**     | <img src="https://skillicons.dev/icons?i=python,django,fastapi,express,nodejs" height="40" /> |
 | **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,postgis,mysql,mongodb,sqlite" height="40" />                                        |
 | **Mobile Development:** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="40" /> |
 | **DevOps & Tools:**      | <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,git,github,postman,vscode,docker" height="40" />       |
 | **Programming Languages:**    | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java" height="40" />                        |
-| **Design & Media:** | <img src="https://skillicons.dev/icons?i=illustrator,photoshop,premierepro,figma" height="40" /> |
+| **Design & Media:** | <img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma" height="40" /> |
 
 I am always keen to learn and adopt new tools and frameworks to improve my craft.
 
