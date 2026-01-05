@@ -7,7 +7,7 @@ I'm a passionate and experienced Software Engineer with a strong background in w
 I specialize in a range of tools and technologies, including:
 | Tech Area        | Tools & Technologies                                                                                                    |
 |------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,ts,react,nextjs" height="40" />|
+| **Frontend:**    | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,ts,react,angular,nextjs" height="40" />|
 | **Backend:**     | <img src="https://skillicons.dev/icons?i=python,django,fastapi,express,nodejs" height="40" /> |
 | **Databases:**   | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="40" />                                        |
 | **Mobile Development:** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="40" /> |
