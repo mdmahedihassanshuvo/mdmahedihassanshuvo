@@ -14,7 +14,8 @@ I'm **Md Mahedi Hassan Shuvo**, a Software Engineer at **Tiger Park Limited**, b
 
 I work on project-management, reporting, billing, and field-operations systems, with an emphasis on maintainable code, reliable APIs, and practical user experiences. I'm also pursuing a **B.Sc. in Computer Science and Engineering** at **Bangladesh University of Business & Technology (BUBT)**.
 
-- 💼 **Software Engineer**, Tiger Park Limited — **February 2025–Present**
+- 💼 **Software Engineer**, Tiger Park Limited — **February 2025–Present** (permanent role)
+- 🎓 **Software Engineering Intern**, Tiger Park Limited — **September 10, 2024–January 2025**
 - 🔧 Focused on backend APIs, database-driven systems, reporting, and application improvements
 - 📱 Contributing to Flutter mobile applications and their backend integrations
 - 🌱 Learning more about software architecture, testing, Docker, and production-ready deployment
@@ -33,13 +34,19 @@ I work on project-management, reporting, billing, and field-operations systems, 
 ## 💼 Professional Experience
 
 ### Software Engineer — Tiger Park Limited
-**February 2025–Present**
+**February 2025–Present | Permanent**
 
 - Develop and maintain backend services and REST APIs for business and public-sector applications.
 - Build and improve reporting, project-management, contract, budget, and billing workflows.
 - Work with PostgreSQL-backed data, application logic, and operational reports.
 - Contribute to Flutter mobile applications, notifications, maps, and field-reporting features.
 - Collaborate on bug fixes, feature delivery, and ongoing application improvements.
+
+### Software Engineering Intern — Tiger Park Limited
+**September 10, 2024–January 2025 | Internship**
+
+- Joined Tiger Park Limited as an intern on September 10, 2024, before transitioning to a permanent Software Engineer role in February 2025.
+- Gained hands-on experience contributing to software development in a professional team environment.
 
 ## 🚀 Selected Professional Projects
 
@@ -72,10 +79,6 @@ Bangladesh University of Business & Technology (BUBT)
 **October 2023–March 2027 (expected)**
 
 **Diploma in Engineering (Computer Technology)**
-
-## 🏆 Achievement
-
-🥈 **2nd Place — Programming Hero Project Showcase Competition**
 
 ## 📊 GitHub Activity
 
