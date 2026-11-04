@@ -34,7 +34,7 @@ I participate in and advocate for regular code reviews. This practice not only i
 
 ## 💼 Experience
 ### Tiger Park Limited
-**Software Engineer** *(Sep'24 - Present)*
+**Software Engineer** *(Sep'10 - Present)*
 - Develop and maintain scalable applications.
 - Collaborated with team to architect software, streamlining operations.
 
